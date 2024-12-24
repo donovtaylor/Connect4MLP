@@ -1,0 +1,1 @@
+This project aims to develop an AI capable of playing Connect Four. The agent learns from a dataset of 100,000 randomly generated games. The hope is that through the deep learning approach, the model will learn what makes a good move through looking at a large number of randomly played games.
